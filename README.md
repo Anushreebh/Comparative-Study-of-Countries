@@ -25,7 +25,7 @@ Your task is to compare various parameters such as
 + Ratio of reinsurance accepted
 + Retention ratio of different countries
 
-#### Task 
+### Task 
 1. Create a geographic map showing the countries' fields
 2. Create a webpage to show data from the world bank webpage 
 3. Create a KPI Table
@@ -33,7 +33,7 @@ Your task is to compare various parameters such as
 5. Create a trend line to show the selected category values
 6. Create a dashboard filter for income group
 
-#### Datasets required for the project:
+### Datasets required for the project
 + [Insurance Sample Dataset.xlsx](https://github.com/Anushreebh/Comparative-Study-of-Countries/files/11375369/Insurance.Sample.Dataset.xlsx)
 + [Global Financial Development Database - Jul2018.xlsx](https://github.com/Anushreebh/Comparative-Study-of-Countries/files/11375370/Global.Financial.Development.Database.-.Jul2018.xlsx)
 
